@@ -27,7 +27,6 @@ class ClickThrough extends Component<any,any> {
         })
     }
 
-
     render() {
         return(
             <Fragment>
